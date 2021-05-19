@@ -1,6 +1,4 @@
-# akvelon_python_internship_3_Tatiana_Sabaeva
 Project for akvelon internship
-
 
 TASK №1
 Description
@@ -26,7 +24,6 @@ Functional requirements:
 ●To view customers, and payments you need to provide various filtering methods (by payment date, type of transaction (either income or outcome, based on the sign of amount)) and sorting (by date, by amount)
 
 
-
 TASK №2
 Description
 Implement a function which will return n’th number of Fibonacci sequence. The function would be called as:
@@ -43,16 +40,3 @@ Tasks should be completed:
 ●With Swagger (https://swagger.io)
 ●Uploaded to the GitHub
 ●Using English to write comments and descriptions of classes, fields, etc
-
-Requirements
-When implementing your solution, please make sure that the code is:
-●Well-structured
-●Contains instructions (best to be put into readme.md) about how to deploy and test it
-●Clean
-The program you implement must be a complete program product, i.e. should be easy to install, provide for the handling of non-standard situations, be resistant to incorrect user actions, etc.
-
-Will be a PLUS
-●If you use Docker
-●If you use type hinting in functions’ signature
-●If solution is deployed and can be accessed publicly (for instance, on Heroku or other host)
-●If you add tests based on any testing framework (pytest, unittest, etc.)
